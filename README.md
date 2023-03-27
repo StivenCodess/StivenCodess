@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hello Guys! I'm Stiven 🦎</h1>
+  <p>Passionate about the technological world! 🤖 <br>
+  I love programming and learning new things! 🚀 
+  I really like the Frontend 🎨, and every day I work on it to improve!</p>
+</div>
+<div align="center">
+<br>
+<h2> Language and Tools 🛠️</h2>
+<img src="https://github.com/vorillaz/devicons/blob/ba75593fdf8d66496676a90cbf127d721f73e961/!PNG/html5.png">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css" />
+  </a>
+</p>
+</div>
 
-<!--
-**StivenCodess/StivenCodess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
