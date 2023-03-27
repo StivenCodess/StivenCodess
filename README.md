@@ -8,14 +8,17 @@
   </a>
 </div>
 <div align="center">
-<br>
-<h3> Language and Tools 🛠️</h2>
-<img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,py,react,vite" />
+  <br>
+  <h3> Language and Tools 🛠️</h2>
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,py,react,vite" />
 </div>
 <div align="center">
-<br>
-<h3> My stats 🚀</h2>
-  
+  <br>
+  <h3> 🚀 My stats 🚀</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=stivencodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivencodess&theme=dracula&hide_border=true&border_radius=20"/>
 </div>
+
+
 
 
