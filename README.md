@@ -3,6 +3,9 @@
   <p>Passionate about the technological world! 🤖 <br>
   I love programming and learning new things! 🚀 
   I really like the Frontend 🎨, and every day I work on it to improve!</p>
+  <a href="https://www.linkedin.com/in/airtor-stiven-vusanovich-2a6358261/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 <div align="center">
 <br>
