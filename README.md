@@ -9,8 +9,13 @@
 </div>
 <div align="center">
 <br>
-<h2> Language and Tools 🛠️</h2>
+<h3> Language and Tools 🛠️</h2>
 <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,py,react,vite" />
+</div>
+<div align="center">
+<br>
+<h3> My stats 🚀</h2>
+  
 </div>
 
 
