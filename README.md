@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello Guys! I'm Stiven 🦎</h1>
-  <p>I'm currently working with React, TailwindCSS, HTML, CSS, JavaScript!💻<br>
+  <p>I'm currently working with React, TailwindCSS, HTML, CSS, JavaScript! 💻<br>
   I love programming and learning new things! 🚀 
  I really like Frontend 🎨, and I work everyday on it to improve!</p>
   <a href="https://www.linkedin.com/in/airtor-stiven-vusanovich-2a6358261/" target="_blank">
