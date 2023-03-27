@@ -10,7 +10,7 @@
 <div align="center">
   <br>
   <h3> 🛠️Language and Tools 🛠️</h2>
-  <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,py,react,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,git,bootstrap,py,react,vite,tailwind,sass" />
 </div>
 <div align="center">
   <br>
@@ -21,6 +21,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenCodess&theme=dracula&hide_border=true&border_radius=20"/>
 </div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=StivenCodess&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
