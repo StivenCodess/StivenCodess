@@ -15,10 +15,11 @@
 <div align="center">
   <br>
   <h3> 🚀 My stats 🚀</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=stivencodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivencodess&theme=dracula&hide_border=true&border_radius=20"/>
+  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stivencodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20"/>
+  <span>ㅤㅤ</span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivencodess&theme=dracula&hide_border=true&border_radius=20"/>
 </div>
-
 
 
 
