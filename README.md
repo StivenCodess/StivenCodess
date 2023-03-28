@@ -9,7 +9,7 @@
 </div>
 <div align="center">
   <br>
-  <h3> 🛠️Language and Tools 🛠️</h2>
+  <h3> 🛠️ Language and Tools 🛠️</h2>
   <img src="https://skillicons.dev/icons?i=js,react,py,html,css,tailwind,sass,git,vite,figma" />
 </div>
 <div align="center">
