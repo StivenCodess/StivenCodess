@@ -18,7 +18,7 @@
   <br>
   <img align="center" src="https://github-readme-stats-alpha-livid.vercel.app/api?username=StivenCodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20"/>
   <span>ㅤㅤ</span>
-  <img align="center" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=StivenCodess&theme=dracula&hide_border=true&border_radius=20"/>
+  <img align="center" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=StivenCodess&theme=dracula&hide_border=true&border_radius=20&layout=compact"/>
 </div>
 
 
