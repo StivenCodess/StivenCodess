@@ -16,9 +16,11 @@
   <br>
   <h3> 🚀 My stats 🚀</h2>
   <br>
-  <img align="center" src="https://github-readme-stats-alpha-livid.vercel.app/api?username=StivenCodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20"/>
+  
+
+  <img align="center" src="github-readme-stats-lovat-eight-62.vercel.app/api?username=StivenCodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20"/>
   <span>ㅤㅤ</span>
-  <img align="center" src="https://github-readme-stats-alpha-livid.vercel.app/api/top-langs/?username=StivenCodess&theme=dracula&hide_border=true&border_radius=20&layout=compact"/>
+  <img align="center" src="github-readme-stats-lovat-eight-62.vercel.app/api/top-langs/?username=StivenCodess&theme=dracula&hide_border=true&border_radius=20&layout=compact"/>
 </div>
 
 
