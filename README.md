@@ -10,7 +10,7 @@
 <div align="center">
   <br>
   <h3> 🛠️ Language and Tools 🛠️</h2>
-  <img src="https://skillicons.dev/icons?i=js,react,py,html,css,tailwind,sass,git,vite,figma,nodejs,ts,nextjs,electron" />
+  <img src="https://skillicons.dev/icons?i=js,react,py,tailwind,sass,git,vite,figma,nodejs,ts,nextjs,electron" />
 </div>
 <div align="center">
   <br>
