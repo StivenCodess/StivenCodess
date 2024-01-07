@@ -17,10 +17,10 @@
   <h3> 🚀 My stats 🚀</h2>
   <br>
   <p align="center">
-  <img src="https://github-readme-stats-lovat-eight-62.vercel.app/api/top-langs/?username=StivenCodess&theme=dracula&hide_border=true&border_radius=20&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=StivenCodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20&layout=compact" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-lovat-eight-62.vercel.app/api?username=StivenCodess&show_icons=true&theme=dracula&hide_border=true&border_radius=20" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StivenCodess&layout=compact&show_icons=true&theme=dracula&hide_border=true&border_radius=20">
 </p>
 
 </div>
